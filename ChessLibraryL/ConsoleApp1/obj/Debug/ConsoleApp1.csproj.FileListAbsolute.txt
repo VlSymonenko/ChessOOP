@@ -1,0 +1,10 @@
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\bin\Debug\ChessLibraryL.dll
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\bin\Debug\ChessLibraryL.pdb
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Symon\source\repos\ChessLibraryL\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config

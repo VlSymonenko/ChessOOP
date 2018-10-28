@@ -1,0 +1,16 @@
+﻿<Window x:Class="ChessClient.DeletePlayer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChessClient"
+        mc:Ignorable="d"
+        Title="DeletePlayer" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtboxDeleteP" HorizontalAlignment="Left" Height="23" Margin="280.377,80.561,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Enter players NickName to delete" HorizontalAlignment="Left" Margin="16.876,76.561,0,0" VerticalAlignment="Top"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="562.666,361.333,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Close" HorizontalAlignment="Left" Margin="694.667,361.333,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

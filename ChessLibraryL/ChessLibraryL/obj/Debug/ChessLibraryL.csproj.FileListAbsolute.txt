@@ -1,0 +1,5 @@
+C:\Users\Symon\source\repos\ChessLibraryL\ChessLibraryL\obj\Debug\ChessLibraryL.csproj.CoreCompileInputs.cache
+C:\Users\Symon\source\repos\ChessLibraryL\ChessLibraryL\bin\Debug\ChessLibraryL.dll
+C:\Users\Symon\source\repos\ChessLibraryL\ChessLibraryL\bin\Debug\ChessLibraryL.pdb
+C:\Users\Symon\source\repos\ChessLibraryL\ChessLibraryL\obj\Debug\ChessLibraryL.dll
+C:\Users\Symon\source\repos\ChessLibraryL\ChessLibraryL\obj\Debug\ChessLibraryL.pdb
